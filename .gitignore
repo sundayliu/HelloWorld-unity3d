@@ -1,0 +1,10 @@
+Library/
+obj/
+TestResults/
+*.csproj
+*.sln
+*.DotSettings
+UpgradeLog*
+*.pidb
+*.userprefs
+*.user
